@@ -1,0 +1,13 @@
+### Prueba GET - obtener todos los nodos
+GET http://localhost:5283/api/nodos
+
+###
+
+### Prueba POST - agregar nuevo nodo
+POST http://localhost:5283/api/nodos
+Content-Type: application/json
+
+{
+  "id": 15,
+  "valor": "Nuevo Nodo Derecho"
+}
