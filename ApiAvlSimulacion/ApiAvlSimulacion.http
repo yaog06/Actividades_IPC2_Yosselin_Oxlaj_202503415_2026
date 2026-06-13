@@ -1,0 +1,22 @@
+@ApiAvlSimulacion_HostAddress = http://localhost:5255
+
+### Paso A - GET: Ver estado inicial
+GET {{ApiAvlSimulacion_HostAddress}}/api/arbol
+Accept: application/json
+
+###
+
+### Paso B - POST: Insertar nodo 20 y disparar RID
+POST {{ApiAvlSimulacion_HostAddress}}/api/arbol/insertar
+Content-Type: application/json
+
+{
+  "id": 20,
+  "etiqueta": "Nieto Derecho"
+}
+
+###
+
+### Paso C - GET: Verificar árbol balanceado
+GET {{ApiAvlSimulacion_HostAddress}}/api/arbol
+Accept: application/json
