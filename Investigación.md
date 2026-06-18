@@ -2,7 +2,10 @@
 
 **Fecha:** 11 de junio de 2026
 
-Link del repositorio: 
+Link del repositorio: https://github.com/yaog06/Actividades_IPC2_Yosselin_Oxlaj_202503415_2026/tree/main/ApiEstructurasDemo
+
+Yosselin Aracely Oxlaj González
+202503415
  
 ---
  

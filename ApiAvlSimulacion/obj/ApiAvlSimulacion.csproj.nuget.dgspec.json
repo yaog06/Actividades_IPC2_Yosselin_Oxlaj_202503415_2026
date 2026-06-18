@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Systems\\Documents\\USAC YOSSELIN\\Año_2026\\Vacaciones_Junio\\Lab_ipc2\\Actividad_dia12\\ApiAvlSimulacion\\ApiAvlSimulacion.csproj": {}
+    "C:\\Users\\Systems\\Documents\\USAC YOSSELIN\\Año_2026\\Vacaciones_Junio\\Lab_ipc2\\Actividad_dia11\\ApiAvlSimulacion\\ApiAvlSimulacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Systems\\Documents\\USAC YOSSELIN\\Año_2026\\Vacaciones_Junio\\Lab_ipc2\\Actividad_dia12\\ApiAvlSimulacion\\ApiAvlSimulacion.csproj": {
+    "C:\\Users\\Systems\\Documents\\USAC YOSSELIN\\Año_2026\\Vacaciones_Junio\\Lab_ipc2\\Actividad_dia11\\ApiAvlSimulacion\\ApiAvlSimulacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Systems\\Documents\\USAC YOSSELIN\\Año_2026\\Vacaciones_Junio\\Lab_ipc2\\Actividad_dia12\\ApiAvlSimulacion\\ApiAvlSimulacion.csproj",
+        "projectUniqueName": "C:\\Users\\Systems\\Documents\\USAC YOSSELIN\\Año_2026\\Vacaciones_Junio\\Lab_ipc2\\Actividad_dia11\\ApiAvlSimulacion\\ApiAvlSimulacion.csproj",
         "projectName": "ApiAvlSimulacion",
-        "projectPath": "C:\\Users\\Systems\\Documents\\USAC YOSSELIN\\Año_2026\\Vacaciones_Junio\\Lab_ipc2\\Actividad_dia12\\ApiAvlSimulacion\\ApiAvlSimulacion.csproj",
+        "projectPath": "C:\\Users\\Systems\\Documents\\USAC YOSSELIN\\Año_2026\\Vacaciones_Junio\\Lab_ipc2\\Actividad_dia11\\ApiAvlSimulacion\\ApiAvlSimulacion.csproj",
         "packagesPath": "C:\\Users\\Systems\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Systems\\Documents\\USAC YOSSELIN\\Año_2026\\Vacaciones_Junio\\Lab_ipc2\\Actividad_dia12\\ApiAvlSimulacion\\obj\\",
+        "outputPath": "C:\\Users\\Systems\\Documents\\USAC YOSSELIN\\Año_2026\\Vacaciones_Junio\\Lab_ipc2\\Actividad_dia11\\ApiAvlSimulacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
